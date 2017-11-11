@@ -1,3 +1,5 @@
+//This program calculates the Psi value of single letters
+
 #include<stdio.h>
 #include<stdlib.h>
 
