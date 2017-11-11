@@ -1,3 +1,5 @@
+//This program calculates the Phi value of pairs of letters
+
 #include<stdio.h>
 #include<stdlib.h>
 
