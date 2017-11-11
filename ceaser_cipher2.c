@@ -1,3 +1,5 @@
+//This program finds the ceaser cipher key by calculating the most frequent letter in the cipher text and assuming it to be 'e'.
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
