@@ -1,3 +1,4 @@
+//This program calculates the Phi value of single letters
 #include<stdio.h>
 #include<stdlib.h>
 
