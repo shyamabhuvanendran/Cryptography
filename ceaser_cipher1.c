@@ -1,3 +1,5 @@
+//This program encrypts an input file with an entered key to produce a ceaser cipher.
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<ctype.h>
