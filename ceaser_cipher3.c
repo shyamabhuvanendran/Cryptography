@@ -1,3 +1,5 @@
+//This program decrypts the ceaser cipher with the entered key addictively till the most frequent letter in the decrypted text
+//is 'e'.
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
